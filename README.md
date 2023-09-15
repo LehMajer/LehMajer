@@ -12,7 +12,7 @@ My name is Leticia, I'm studying to be a WEB Developer Fullstack
 
 
 <a href="https://linkedin.com/in/leticia-miranda-bastos" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="leticia-miranda-bastos" height="40" width="40"/> 
-  <a href="https://www.instagram.com/@leh.majer" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="@leh.majer" height="40" width="40"/></a> </p>
+  <a href="https://www.instagram.com/leh.majer" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@leh.majer" height="20" width="40"/></a> 
 <div>
     <img height="10cm" width="10cm" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img height="10cm" scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
