@@ -2,7 +2,7 @@ Hi there! 🐒
 
 My name is Leticia, I'm studying to be a WEB Developer Fullstack. I'm very interested in the back end area, and I'm ready to learn more.  I would like opportunities to work and study more in this incredible area!!!
 
-If you want to contact me 📞, here are some links to find me:
+If you want to contact me 📞, here are some links to find me: <br>
 <a href="https://linkedin.com/in/leticia-miranda-bastos" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leticia-miranda-bastos"/> 
   <a href="https://www.instagram.com/leh.majer" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@leh.majer"/></a> 
 
